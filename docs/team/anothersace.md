@@ -18,6 +18,10 @@ This project is a text application that interact using text line. The Main Purpo
 - Fixed some grammatical errors throughout the code to improve readability.
 ### Java documentation:
 - Implemented some general Java documentation throughout the code.
+### Developer Guide:
+- Contributed sort by time methods.
+- Contributed to financial goals.
+- Contributed currency conversion methods under transactionManager methods.
 ### My role
 - My initial role in the group was to get the team together for meetings and work on the idea behind our project.
 - I also helped create most of the user stories and some of the user requirements.
